@@ -1,0 +1,15 @@
+{
+    "name": "school-bag-alarm",
+    "description": "School bag alarm: accelerometer input, alarm state, sound and blinking LEDs.",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "main.py",
+        "README.md"
+    ],
+    "preferredEditor": "pyprj"
+}

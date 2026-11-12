@@ -1,6 +1,6 @@
 {
-    "name": "school-bag-alarm",
-    "description": "School bag alarm: accelerometer input, alarm state, sound and blinking LEDs.",
+    "name": "radio-send",
+    "description": "Year 7 radio sender: press A to send GO to a second micro:bit.",
     "dependencies": {
         "core": "*",
         "radio": "*",

@@ -26,3 +26,14 @@ Test shaking while off, an armed bag staying still, shaking after arming, stoppi
 Change the pitch, LED pattern or blink timing. Predict the result, test it, then explain your improvement.
 
 The Python code is the same as the School Bag Alarm lesson. This is MakeCode Python, for the app's MakeCode editor.
+
+## Extend it with radio
+
+Build up from one button controlling another micro:bit, then add a remote warning to this bag alarm. [Open the radio lesson, snippets and teacher references](RADIO.md).
+
+| Starter | View the project | Import URL |
+| --- | --- | --- |
+| Sender | [radio-send branch](https://github.com/mr-ilia/bag-alarm/tree/radio-send) | `https://github.com/mr-ilia/bag-alarm#radio-send` |
+| Receiver | [radio-receive branch](https://github.com/mr-ilia/bag-alarm/tree/radio-receive) | `https://github.com/mr-ilia/bag-alarm#radio-receive` |
+
+Use the complete import URL, including the part after `#`. Give both micro:bits the same radio group number. Start with the short sender and receiver projects, then adapt a copy of your existing bag-alarm code using the guided lesson.

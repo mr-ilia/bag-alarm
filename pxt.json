@@ -1,6 +1,6 @@
 {
-    "name": "school-bag-alarm",
-    "description": "School bag alarm: accelerometer input, alarm state, sound and blinking LEDs.",
+    "name": "radio-receive",
+    "description": "Year 7 radio receiver: show a heart when GO arrives, and clear it with local Button B.",
     "dependencies": {
         "core": "*",
         "radio": "*",
